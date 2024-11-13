@@ -1,3 +1,4 @@
+#PYGAME PROJ
 Hey All,
 
 This is a private github repository to store my school projects. This particular one was created in collaration with two other groupmates.
